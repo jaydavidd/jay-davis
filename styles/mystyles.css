@@ -1,0 +1,29 @@
+body {
+    background-color: lightsteelblue;
+}
+
+a{
+    font-weight: bold;
+    color: lightgrey;
+}
+
+.fitImage{
+    height:  200px;
+
+}
+
+ul{
+list-style-type: circle;
+}
+
+.linkColor2 {
+    color:cornflowerblue;
+}
+
+h2 {
+     color: rgb(83, 83, 83);
+}
+
+h3 {
+    font-style: italic;
+}
